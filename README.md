@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋 I'm Irfan! 😎
 
-<!--
-**IK439/IK439** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm just a passionate individual with profound curiosity, interest, and love for all things code and tech!
+
+- 🌱 Currently learning: **[AI / ML / LLM]**
+- 🔭 Working on: **[Taking a break!]**
+- 🌍 Languages: **[English]**
+- 📫 How to reach me: **[irfan_439@live.co.uk]**
+- ⚡ Fun fact: **[I'm big on travelling the world]**
+
+## Get in Touch 📬
+
+- **[LinkedIn]**(www.linkedin.com/in/irfan-kachwala-8372572a7)
+
+## Coding Expertise 🧠
+![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+## Coding Knowledge 📚
+![CSHARP](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GROOVY](https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
+
+## Learning 🎓
+![NODE.JS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+## Most Used Language 📊
+![DYNAMICSTATS](https://github-readme-stats.vercel.app/api/top-langs/?username=IK439&theme=tokyonight)
+
