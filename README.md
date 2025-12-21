@@ -15,10 +15,8 @@ I'm just a passionate individual with profound curiosity, interest, and love for
 
 - **[LinkedIn]**(www.linkedin.com/in/irfan-kachwala-8372572a7)
 
-## Coding Expertise 🧠
+## Coding Knowledge 🧠
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
-## Coding Knowledge 📚
 ![CSHARP](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
