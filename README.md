@@ -15,7 +15,7 @@ I'm just a passionate individual with profound curiosity, interest, and love for
 
 - **[LinkedIn]**(www.linkedin.com/in/irfan-kachwala-8372572a7)
 
-## Tech Knowledge 🧠
+## Tech Stack 🧠
 ![CSHARP](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -26,7 +26,8 @@ I'm just a passionate individual with profound curiosity, interest, and love for
 ![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)
 ![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)
 ![DOTNET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
-![Apache Groovy Badge](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?logo=Apache+Groovy&logoColor=white)
+![GROOVY](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?logo=Apache+Groovy&logoColor=white)
+![AZURE](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff)
 
 ## Learning 🎓
 ![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
