@@ -32,3 +32,5 @@ I'm just a passionate individual with profound curiosity, interest, and love for
 ## Learning 🎓
 ![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+![TOPLANGS](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IK439&layout=compact&theme=tokyonight&hide_border=true)
