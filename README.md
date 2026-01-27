@@ -19,6 +19,7 @@ I'm just a passionate individual with profound curiosity, interest, and love for
 ![CSHARP](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TYPESCRIPT](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
@@ -31,7 +32,6 @@ I'm just a passionate individual with profound curiosity, interest, and love for
 
 ## Learning 🎓
 ![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TYPESCRIPT](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ## Repositories Stats 📊
 ![TOPLANGS](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IK439&layout=compact&theme=tokyonight&hide_border=true)
