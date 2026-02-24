@@ -32,6 +32,7 @@ I'm just a passionate individual with profound curiosity, interest, and love for
 ![AZURE](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff)
 
 ## Learning 🎓
+- AI Engineer Career Path
 
 ## Repositories Stats 📊
 ![TOPLANGS](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IK439&layout=compact&theme=tokyonight&hide_border=true)
