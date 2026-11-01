@@ -35,4 +35,4 @@ I'm just a passionate individual with profound curiosity, interest, and love for
 - AI Engineer Career Path
 
 ## Repositories Stats 📊
-![TOPLANGS](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IK439&layout=compact&theme=tokyonight&hide_border=true)
+![TOPLANGS](https://github-stats-extended.vercel.app/api/top-langs/?username=IK439&layout=compact&theme=tokyonight&hide_border=true)
