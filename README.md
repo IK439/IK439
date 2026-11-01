@@ -17,8 +17,8 @@ I'm just a passionate individual with profound curiosity, interest, and love for
 
 ## Tech Stack 🧠
 ![CSHARP](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![NODE.JS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -32,7 +32,6 @@ I'm just a passionate individual with profound curiosity, interest, and love for
 ![AZURE](https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff)
 
 ## Learning 🎓
-- AI Engineer Career Path
 
 ## Repositories Stats 📊
 ![TOPLANGS](https://github-stats-extended.vercel.app/api/top-langs/?username=IK439&layout=compact&theme=tokyonight&hide_border=true)
